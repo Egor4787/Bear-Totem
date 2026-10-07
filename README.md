@@ -10,4 +10,5 @@ Just a bear texture for Totem of Undying. Uses [Egor4787](https://namemc.com/pro
 ### RU
 Текстура медведя для Тотема Бессмертия. Использует скин [Egor4787](https://namemc.com/profile/Egor4787/) как основу.
 
-![A screenshot from Minecraft showing the texture of a Totem](https://cdn.modrinth.com/data/cached_images/62d3e54e23ca94671c9cccdf9c1c9be3ea116f27.png)
+<img src="https://github.com/Egor4787/Bear-Totem/blob/master/.github/assets/screenshots/totem-in-frame.png?raw=true" alt="A screenshot from Minecraft showing totem in a frame" width="400">
+<img src="https://github.com/Egor4787/Bear-Totem/blob/master/.github/assets/screenshots/totem-in-hand.png?raw=true" alt="A screenshot from Minecraft showing totem in hand" width="400">
