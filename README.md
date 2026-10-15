@@ -1,8 +1,9 @@
 # Bear Totem
 By [Egor4787](https://modrinth.com/user/egor4787/) • Minecraft 1.12+
 
-<a href="https://modrinth.com/resourcepack/bear-totem"><img src="https://raw.githubusercontent.com/jvqtil/md-badges/refs/heads/master/.github/assets/badge-modrinth.png" height=60></a>
+<a href="https://curseforge.com/minecraft/texture-packs/bear-totem"><img src="https://raw.githubusercontent.com/jvqtil/md-badges/refs/heads/master/.github/assets/badge-curseforge.png" height=58></a>
 <a href="https://github.com/Egor4787/Bear-Totem/releases/latest"><img src="https://raw.githubusercontent.com/jvqtil/md-badges/refs/heads/master/.github/assets/badge-github.png" height=56></a>
+<a href="https://modrinth.com/resourcepack/bear-totem"><img src="https://raw.githubusercontent.com/jvqtil/md-badges/refs/heads/master/.github/assets/badge-modrinth.png" height=60></a>
 
 ### EN
 Just a bear texture for Totem of Undying. Uses [Egor4787](https://namemc.com/profile/Egor4787/)'s skin as a model.
